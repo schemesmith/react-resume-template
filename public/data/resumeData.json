@@ -1,10 +1,10 @@
 {
   "main": {
     "name":"Theo Olsen",
-    "occupation":"Software Engineer",
+    "occupation":"Software Engineer, Data Scientist, Full Stack Developer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"Interested in the software development life-cycle and it's applications in business.",
+    "bio":"I have experience working with web frameworks, leveraging data, diving deep into software code, and starting businesses. As my time in college ends I am more interested in making sure what I do is meaningul rather than fitting into a certain career path.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "theo.ben.olsen@gmail.com",
     "phone": "555-555-5555",
@@ -31,7 +31,7 @@
       {
         "name":"itch",
         "url":"https://schemesmith.itch.io/",
-        "className":"fa fa-github"
+        "className":"fa fa-gamepad"
       }
 
     ]
@@ -52,7 +52,7 @@
         "company":"Sony Research and Development, San Jose CA",
         "title":"Marketing Consultant and Software Engineer",
         "years":"Fall 2020",
-        "description":"Leveraged React and Materials-UI to develop Web App to empower disconnected youth \rCollaborated with marketing team of 4+ to research market trends, communicate with clients, and improve UX \rPitched the product to potential investors as a part of the Lehigh Silicon Valley Innovation Internship program \r"
+        "description":"Leveraged React and Materials-UI to develop Web App to empower disconnected youth \rCollaborated with marketing team of 4+ to research market trends, communicate with clients, and improve UX \rPitched the product to potential investors as a part of the Lehigh Silicon Valley Innovation Internship program"
       }
     ],
     "skills":[
@@ -91,7 +91,7 @@
       {
         "name":"AWS Lambda",
         "level":"60%"
-      }
+      },
       {
         "name":"SQL",
         "level":"60%"
@@ -104,13 +104,13 @@
       {
         "title":"Game Development",
         "category":"I make games in my spare time",
-        "image":"canadian-wanderlust.jpg",
+        "image":"games.png",
         "url":"https://schemesmith.itch.io/"
       },
       {
         "title":"Canned Frog Apparel",
         "category":"A T-Shirt Company I started",
-        "image":"fury-fighting-gear.jpg",
+        "image":"cannedfrog.png",
         "url":"https://cannedfrog.com"
       }
 
