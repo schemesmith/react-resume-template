@@ -4,6 +4,7 @@
 - used <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">this</a> tutorial to deploy react to github pages. 
     - however with custom domains need to change `package.json`'s `"homepage"` to `"homepage": "/",` or else it tries to access theoolse.com/theoolsen.com/index.html ... 
 - need a `CNAME` file with just `theoolsen.com` in it for domain hsoting to work
+- to depoy use `npm run deploy`
 
 # React JS Resume Web App Template Test     
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")

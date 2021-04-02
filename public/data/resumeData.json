@@ -4,7 +4,7 @@
     "occupation":"Software Engineer, Data Scientist, Full Stack Developer",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"I have experience working with web frameworks, leveraging data, diving deep into software code, and starting businesses. As my time in college ends I am more interested in making sure what I do is meaningul rather than fitting into a certain career path.",
+    "bio":"I have experience working with web frameworks, leveraging data, diving deep into software code, and starting businesses. As my time in college ends I've found that I am more interested in doing meaningful work rather than fitting into a certain career path. When I have spare time you can catch me making games and dancing.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "theo.ben.olsen@gmail.com",
     "phone": "555-555-5555",
@@ -15,7 +15,7 @@
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "theoolsen.com",
-    "resumedownload":"https://drive.google.com/file/d/1lllytP6ieET3IyjQH_y52Q8YPX_QWp9p/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1JkBXOiGNmVqPoErv2pkVSGZq8uZKBOS0/view?usp=sharing",
     "social":[
     
       {
@@ -37,12 +37,13 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"By building a wide base of experience in different languages, I have also become capable at picking up new ones.",
     "education":[
       {
         "school":"Lehigh University",
         "degree":"Bachelors in Computer Science and Business",
         "graduated":"May 2021",
+        "gpa": "GPA: 3.67",
         "description":"Minors in Chinese and Data Science"
       }
     
@@ -52,17 +53,37 @@
         "company":"Sony Research and Development, San Jose CA",
         "title":"Marketing Consultant and Software Engineer",
         "years":"Fall 2020",
-        "description":"Leveraged React and Materials-UI to develop Web App to empower disconnected youth \rCollaborated with marketing team of 4+ to research market trends, communicate with clients, and improve UX \rPitched the product to potential investors as a part of the Lehigh Silicon Valley Innovation Internship program"
+        "description":"Leveraged React and Materials-UI to develop Web App to empower disconnected youth. Collaborated with marketing team of 4+ to research market trends, communicate with clients, and improve UX. Pitched the product to potential investors as a part of the Lehigh Silicon Valley Innovation Internship program"
+      },
+      {
+        "company":"Lockheed Martin, Moorestown NJ",
+        "title":"Software Engineer",
+        "years":"Summer 2020",
+        "description":"Contributed to an international project with Australia related to the AEGIS Defense System. Leveraged C++ and Java to make contributions to components within a larger codebase. Utilized Python scripting to generate header files for my team and streamline installation for the customer. Worked in an Agile and Scrum environment of 10 people, and presented at program wide demos. Acquired Secret Security Clearance."
+      },
+      {
+        "company":"Tonghao Civil Engineering, Shanghai China",
+        "title":"Software Engineer",
+        "years":"Summer 2018",
+        "description":"Added additional layout functionality to road design software for engineers using C++. Collaborated with a team of 4 colleagues with different language backgrounds. Observed and studied the workings of a professional environment in China."
+      },
+      {
+        "company":"Lehigh University Office of Residence Life",
+        "title":"Gryphon (Residential Assistant)",
+        "years":"Fall 2018- Spring 2020",
+        "description":"Mentored and supervised 22 first-year students, supporting their safety and success. Organized over 10 residence hall events and upheld school policy."
       }
     ],
+    
     "skills":[
-      {
-        "name":"Git",
-        "level":"80%"
-      },
+      
       {
         "name":"Python",
         "level":"80%"
+      },
+      {
+        "name": "Pandas",
+        "level":"70%"
       },
       {
         "name":"ReactJs",
@@ -77,12 +98,16 @@
         "level":"80%"
       },
       {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
         "name":"DynamoDB",
         "level":"70%"
       },
       {
         "name":"R",
-        "level":"70%"
+        "level":"65%"
       },
       {
         "name":"C++",
@@ -114,6 +139,18 @@
         "url":"https://cannedfrog.com"
       }
 
+    ],
+    "projects2":[
+      {
+        "title":"Online Data Storage Service",
+        "date": "Fall 2020",
+        "blurb":"Created in Operating Systems Class. Clients connect to a server that utilizes encryption, multiple threads, and usage quotas to persistently manage client’s data and functions. C++."
+      },
+      {
+        "title":"Capstone Project",
+        "date": "Spring 2020-Fall 2020",
+        "blurb":"Created a web application to manage user subscriptions to Lutron features and open up new revenue streams. Worked in a team of 4 using Agile and Scrum methodologies. Advised by Lutron Electronics. AWS Amplify. DynamoDB. HTML. CSS. Python. React."
+      }
     ]
   },
   "testimonials":{
