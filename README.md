@@ -1,4 +1,9 @@
-# React JS Resume Web App Template      
+# Updates by Theo
+- for hosting on github pages the json data isn't served correctly so I changed the url to the raw data link from github
+- used <a href="https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f">this</a> tutorial to deploy react to github pages. 
+- need a "CNAME" file with just "theoolsen.com" in it for domain hsoting to work
+
+# React JS Resume Web App Template Test     
 ![ReactJS Resume Website Template](resume-screenshot.jpg?raw=true "ReactJS Resume Website Template")
 ### <a href="https://react-resume-template.herokuapp.com/">LIVE DEMO</a> 
 
