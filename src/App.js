@@ -26,7 +26,7 @@ class App extends Component {
 
   getResumeData(){
     $.ajax({
-      url:'https://raw.githubusercontent.com/schemesmith/react-resume-template/gh-pages/data/resumeData.json',
+      url:'https://raw.githubusercontent.com/schemesmith/react-resume-template/master/public/data/resumeData.json',
       dataType:'json',
       cache: false,
       success: function(data){
