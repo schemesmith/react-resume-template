@@ -50,10 +50,9 @@
     ],
     "work":[
       {
-        "company":"Sony Research and Development, San Jose CA",
-        "title":"Marketing Consultant and Software Engineer Intern",
-        "years":"Fall 2020",
-        "description":"Leveraged React and Materials-UI to develop Web App to empower disconnected youth. Collaborated with marketing team of 4+ to research market trends, communicate with clients, and improve UX. Pitched the product to potential investors as a part of the Lehigh Silicon Valley Innovation Internship program"
+        "company":"Lockheed Martin, Moorestown NJ",
+        "title":"Software Engineer",
+        "years":"August 2021 - Present"
       },
       {
         "company":"Lockheed Martin, Moorestown NJ",
@@ -61,6 +60,13 @@
         "years":"Summer 2020",
         "description":"Contributed to an international project with Australia related to the AEGIS Defense System. Leveraged C++ and Java to make contributions to components within a larger codebase. Utilized Python scripting to generate header files for my team and streamline installation for the customer. Worked in an Agile and Scrum environment of 10 people, and presented at program wide demos. Acquired Secret Security Clearance."
       },
+      {
+        "company":"Sony Research and Development, San Jose CA",
+        "title":"Marketing Consultant and Software Engineer Intern",
+        "years":"Fall 2020",
+        "description":"Leveraged React and Materials-UI to develop Web App to empower disconnected youth. Collaborated with marketing team of 4+ to research market trends, communicate with clients, and improve UX. Pitched the product to potential investors as a part of the Lehigh Silicon Valley Innovation Internship program"
+      },
+      
       {
         "company":"Tonghao Civil Engineering, Shanghai China",
         "title":"Software Engineer Intern",
