@@ -4,7 +4,7 @@
     "occupation":"Software and Game Development",
     "description":"",
     "image":"profilepic.jpg",
-    "bio":"I love video games. As a child I would make my own games with pen and paper, and now I code them. Professionally I have experience working with web frameworks, leveraging data, and diving deep into software code. My goal now is to bring this love of video games into my professional career. For fun off of the computer you can find me taking dance classes and performing!",
+    "bio":"I love video games. As a child I would make my own games with pen and paper, and as I've grown up this has progressed to code and processor. Professionally I have experience working with web frameworks, leveraging data, and diving deep into software code. Now I seek to bring this love of video games into my professional career. For fun offline you can find me taking dance classes!",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "theo.ben.olsen@gmail.com",
     "phone": "555-555-5555",
@@ -127,16 +127,28 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Game Development",
-        "category":"I make games in my spare time",
-        "image":"games.png",
-        "url":"https://schemesmith.itch.io/"
+        "title":"Monster Bullets",
+        "category":"Monster Bullets is a retro fast paced FPS with a twist. Each monster has a unique weakness. ",
+        "image":"monster_bullets.png",
+        "url":"https://store.steampowered.com/app/2056090/Monster_Bullets/"
       },
       {
-        "title":"Canned Frog Apparel",
-        "category":"A T-Shirt Company I started",
-        "image":"cannedfrog.png",
-        "url":"https://cannedfrog.com"
+        "title":"Barry Food Approval",
+        "category":"Start a new job testing food products. Something seems off.",
+        "image":"barry_food.png",
+        "url":"https://michaelsim.itch.io/barrys-food-approval"
+      },
+      {
+        "title":"Pizza Time",
+        "category":"Help Allan make his daily round of deliveries by picking up pizzas and driving them to our loyal customers!",
+        "image":"pizza_time.png",
+        "url":"https://michaelsim.itch.io/pizza-time"
+      },
+      {
+        "title":"Revolution",
+        "category":"Observe a protest from two viewpoints.",
+        "image":"revolution.png",
+        "url":"https://michaelsim.itch.io/revolution"
       }
 
     ],
