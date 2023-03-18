@@ -28,7 +28,7 @@ class About extends Component {
             <p>{bio}</p>
             <div className="row">
                <div className="columns contact-details">
-                  <h2>Contact Details</h2>
+                  <h2>Let's Talk</h2>
                   {/*<p className="address">
 						   <span>{name}</span><br />
 						   <span>{street}<br />
@@ -41,7 +41,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={resumeDownload} className="button"><i className="fa fa-download"></i>View Resume</a>
                   </p>
                </div>
             </div>

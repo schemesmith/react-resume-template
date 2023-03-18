@@ -49,7 +49,7 @@ class Portfolio extends Component {
 
 
    </section>
-   <section id="resume">
+  {/* <section id="resume">
    <div className="row work">
 
 <div className="three columns header-col">
@@ -57,10 +57,10 @@ class Portfolio extends Component {
 </div>
 
 <div className="nine columns main-col">
- {projects2}
+ projects2
 </div>
 </div>
-   </section>
+   </section>*/}
    </div>
     );
   }
