@@ -24,11 +24,6 @@
         "className":"fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"http://github.com/schemesmith",
-        "className":"fa fa-github"
-      },
-      {
         "name":"itch",
         "url":"https://schemesmith.itch.io/",
         "className":"fa fa-gamepad"
